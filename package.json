@@ -1,5 +1,5 @@
 {
-  "name": "git-fix-um",
+  "name": "Wiki2",
   "version": "2.0.0",
   "description": "On undoing, fixing, or removing commits or mistakes in git ",
   "private": true,
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sukima/GitFixUm.git"
+    "url": "git+https://github.com/quantum8803/Wiki2.git"
   },
   "author": "Devin Weaver <suki@tritarget.org> (http://tritarget.org/)",
   "license": "CC BY-SA 3.0",
   "bugs": {
-    "url": "https://github.com/sukima/GitFixUm/issues"
+    "url": "https://github.com/quantum8803/Wiki2/issues"
   },
-  "homepage": "http://sukima.github.io/GitFixUm/",
+  "homepage": "http://quantum8803.github.io/Wiki2/",
   "devDependencies": {
     "tiddlywiki": "^5.1.8"
   }
